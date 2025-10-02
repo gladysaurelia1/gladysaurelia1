@@ -1,5 +1,9 @@
 ## Hi there 👋
+I'm Gladys, a CS Graduate specializing in AI/ML & Data Engineering | Building intelligent systems
 
+Currently: Exploring MLOps and production ML pipelines
+Learning: Advanced deep learning, data engineering patterns
+Projects: Energy analytics, sentiment analysis APIs, computer vision
 <!--
 **gladysaurelia1/gladysaurelia1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
