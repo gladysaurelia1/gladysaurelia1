@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 :)
 I'm Gladys, a CS Graduate specializing in AI/ML & Data Engineering | Building intelligent systems
 
 Currently: Exploring MLOps and production ML pipelines
